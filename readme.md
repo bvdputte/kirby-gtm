@@ -28,5 +28,5 @@ If you don't set a property ID (or if it's empty), the snippet won't have any ou
 Set your Google Tag Manager property ID, e.g. `GTM-XXXX` in the config file:
 
 ```php
-c::set('gtm.propId', 'GTM-XXXX');
+'bvdputte.gtm.propId' => "GTM-123456",
 ```
